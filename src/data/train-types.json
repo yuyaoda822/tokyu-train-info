@@ -1,0 +1,16 @@
+{
+  "trainTypes": {
+    "local": {
+      "name": "各駅停車",
+      "color": "#666666"
+    },
+    "express": {
+      "name": "急行",
+      "color": "#FF6B6B"
+    },
+    "limited": {
+      "name": "特急",
+      "color": "#FF0000"
+    }
+  }
+}

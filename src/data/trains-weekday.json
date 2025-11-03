@@ -1,0 +1,3994 @@
+{
+  "trains": [
+    {
+      "id": 1,
+      "direction": "up",
+      "time": "05:12",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 2,
+      "direction": "up",
+      "time": "05:25",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 3,
+      "direction": "up",
+      "time": "05:37",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 4,
+      "direction": "up",
+      "time": "05:41",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 5,
+      "direction": "up",
+      "time": "05:44",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 6,
+      "direction": "up",
+      "time": "05:48",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 7,
+      "direction": "up",
+      "time": "05:51",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 8,
+      "direction": "up",
+      "time": "05:53",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 9,
+      "direction": "up",
+      "time": "05:58",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 10,
+      "direction": "up",
+      "time": "06:01",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 11,
+      "direction": "up",
+      "time": "06:03",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 12,
+      "direction": "up",
+      "time": "06:05",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 13,
+      "direction": "up",
+      "time": "06:08",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 14,
+      "direction": "up",
+      "time": "06:10",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 15,
+      "direction": "up",
+      "time": "06:15",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 16,
+      "direction": "up",
+      "time": "06:19",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 17,
+      "direction": "up",
+      "time": "06:22",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 18,
+      "direction": "up",
+      "time": "06:27",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 19,
+      "direction": "up",
+      "time": "06:30",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 20,
+      "direction": "up",
+      "time": "06:33",
+      "type": "local",
+      "destination": "清瀬"
+    },
+    {
+      "id": 21,
+      "direction": "up",
+      "time": "06:36",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 22,
+      "direction": "up",
+      "time": "06:39",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 23,
+      "direction": "up",
+      "time": "06:41",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 24,
+      "direction": "up",
+      "time": "06:48",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 25,
+      "direction": "up",
+      "time": "06:51",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 26,
+      "direction": "up",
+      "time": "06:54",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 27,
+      "direction": "up",
+      "time": "06:56",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 28,
+      "direction": "up",
+      "time": "06:59",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 29,
+      "direction": "up",
+      "time": "07:02",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 30,
+      "direction": "up",
+      "time": "07:05",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 31,
+      "direction": "up",
+      "time": "07:11",
+      "type": "local",
+      "destination": "所沢"
+    },
+    {
+      "id": 32,
+      "direction": "up",
+      "time": "07:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 33,
+      "direction": "up",
+      "time": "07:18",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 34,
+      "direction": "up",
+      "time": "07:21",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 35,
+      "direction": "up",
+      "time": "07:23",
+      "type": "express",
+      "destination": "森林公園"
+    },
+    {
+      "id": 36,
+      "direction": "up",
+      "time": "07:26",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 37,
+      "direction": "up",
+      "time": "07:28",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 38,
+      "direction": "up",
+      "time": "07:31",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 39,
+      "direction": "up",
+      "time": "07:37",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 40,
+      "direction": "up",
+      "time": "07:39",
+      "type": "express",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 41,
+      "direction": "up",
+      "time": "07:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 42,
+      "direction": "up",
+      "time": "07:44",
+      "type": "express",
+      "destination": "保谷"
+    },
+    {
+      "id": 43,
+      "direction": "up",
+      "time": "07:47",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 44,
+      "direction": "up",
+      "time": "07:52",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 45,
+      "direction": "up",
+      "time": "07:54",
+      "type": "express",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 46,
+      "direction": "up",
+      "time": "07:56",
+      "type": "local",
+      "destination": "小手指"
+    },
+    {
+      "id": 47,
+      "direction": "up",
+      "time": "07:58",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 48,
+      "direction": "up",
+      "time": "08:01",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 49,
+      "direction": "up",
+      "time": "08:06",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 50,
+      "direction": "up",
+      "time": "08:08",
+      "type": "express",
+      "destination": "池袋"
+    },
+    {
+      "id": 51,
+      "direction": "up",
+      "time": "08:11",
+      "type": "local",
+      "destination": "小手指"
+    },
+    {
+      "id": 52,
+      "direction": "up",
+      "time": "08:13",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 53,
+      "direction": "up",
+      "time": "08:16",
+      "type": "local",
+      "destination": "清瀬"
+    },
+    {
+      "id": 54,
+      "direction": "up",
+      "time": "08:21",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 55,
+      "direction": "up",
+      "time": "08:23",
+      "type": "express",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 56,
+      "direction": "up",
+      "time": "08:26",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 57,
+      "direction": "up",
+      "time": "08:28",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 58,
+      "direction": "up",
+      "time": "08:31",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 59,
+      "direction": "up",
+      "time": "08:36",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 60,
+      "direction": "up",
+      "time": "08:38",
+      "type": "express",
+      "destination": "池袋"
+    },
+    {
+      "id": 61,
+      "direction": "up",
+      "time": "08:41",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 62,
+      "direction": "up",
+      "time": "08:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 63,
+      "direction": "up",
+      "time": "08:46",
+      "type": "local",
+      "destination": "保谷"
+    },
+    {
+      "id": 64,
+      "direction": "up",
+      "time": "08:51",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 65,
+      "direction": "up",
+      "time": "08:53",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 66,
+      "direction": "up",
+      "time": "08:56",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 67,
+      "direction": "up",
+      "time": "08:58",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 68,
+      "direction": "up",
+      "time": "09:01",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 69,
+      "direction": "up",
+      "time": "09:07",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 70,
+      "direction": "up",
+      "time": "09:10",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 71,
+      "direction": "up",
+      "time": "09:13",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 72,
+      "direction": "up",
+      "time": "09:16",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 73,
+      "direction": "up",
+      "time": "09:20",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 74,
+      "direction": "up",
+      "time": "09:26",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 75,
+      "direction": "up",
+      "time": "09:29",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 76,
+      "direction": "up",
+      "time": "09:31",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 77,
+      "direction": "up",
+      "time": "09:36",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 78,
+      "direction": "up",
+      "time": "09:38",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 79,
+      "direction": "up",
+      "time": "09:42",
+      "type": "express",
+      "destination": "保谷"
+    },
+    {
+      "id": 80,
+      "direction": "up",
+      "time": "09:45",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 81,
+      "direction": "up",
+      "time": "09:48",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 82,
+      "direction": "up",
+      "time": "09:50",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 83,
+      "direction": "up",
+      "time": "09:57",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 84,
+      "direction": "up",
+      "time": "10:00",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 85,
+      "direction": "up",
+      "time": "10:02",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 86,
+      "direction": "up",
+      "time": "10:07",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 87,
+      "direction": "up",
+      "time": "10:09",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 88,
+      "direction": "up",
+      "time": "10:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 89,
+      "direction": "up",
+      "time": "10:15",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 90,
+      "direction": "up",
+      "time": "10:21",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 91,
+      "direction": "up",
+      "time": "10:23",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 92,
+      "direction": "up",
+      "time": "10:28",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 93,
+      "direction": "up",
+      "time": "10:30",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 94,
+      "direction": "up",
+      "time": "10:37",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 95,
+      "direction": "up",
+      "time": "10:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 96,
+      "direction": "up",
+      "time": "10:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 97,
+      "direction": "up",
+      "time": "10:51",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 98,
+      "direction": "up",
+      "time": "10:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 99,
+      "direction": "up",
+      "time": "10:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 100,
+      "direction": "up",
+      "time": "11:00",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 101,
+      "direction": "up",
+      "time": "11:07",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 102,
+      "direction": "up",
+      "time": "11:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 103,
+      "direction": "up",
+      "time": "11:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 104,
+      "direction": "up",
+      "time": "11:21",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 105,
+      "direction": "up",
+      "time": "11:24",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 106,
+      "direction": "up",
+      "time": "11:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 107,
+      "direction": "up",
+      "time": "11:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 108,
+      "direction": "up",
+      "time": "11:37",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 109,
+      "direction": "up",
+      "time": "11:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 110,
+      "direction": "up",
+      "time": "11:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 111,
+      "direction": "up",
+      "time": "11:51",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 112,
+      "direction": "up",
+      "time": "11:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 113,
+      "direction": "up",
+      "time": "11:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 114,
+      "direction": "up",
+      "time": "12:00",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 115,
+      "direction": "up",
+      "time": "12:07",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 116,
+      "direction": "up",
+      "time": "12:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 117,
+      "direction": "up",
+      "time": "12:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 118,
+      "direction": "up",
+      "time": "12:21",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 119,
+      "direction": "up",
+      "time": "12:24",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 120,
+      "direction": "up",
+      "time": "12:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 121,
+      "direction": "up",
+      "time": "12:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 122,
+      "direction": "up",
+      "time": "12:37",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 123,
+      "direction": "up",
+      "time": "12:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 124,
+      "direction": "up",
+      "time": "12:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 125,
+      "direction": "up",
+      "time": "12:51",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 126,
+      "direction": "up",
+      "time": "12:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 127,
+      "direction": "up",
+      "time": "12:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 128,
+      "direction": "up",
+      "time": "13:00",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 129,
+      "direction": "up",
+      "time": "13:07",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 130,
+      "direction": "up",
+      "time": "13:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 131,
+      "direction": "up",
+      "time": "13:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 132,
+      "direction": "up",
+      "time": "13:21",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 133,
+      "direction": "up",
+      "time": "13:24",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 134,
+      "direction": "up",
+      "time": "13:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 135,
+      "direction": "up",
+      "time": "13:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 136,
+      "direction": "up",
+      "time": "13:37",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 137,
+      "direction": "up",
+      "time": "13:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 138,
+      "direction": "up",
+      "time": "13:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 139,
+      "direction": "up",
+      "time": "13:51",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 140,
+      "direction": "up",
+      "time": "13:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 141,
+      "direction": "up",
+      "time": "13:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 142,
+      "direction": "up",
+      "time": "14:00",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 143,
+      "direction": "up",
+      "time": "14:07",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 144,
+      "direction": "up",
+      "time": "14:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 145,
+      "direction": "up",
+      "time": "14:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 146,
+      "direction": "up",
+      "time": "14:21",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 147,
+      "direction": "up",
+      "time": "14:24",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 148,
+      "direction": "up",
+      "time": "14:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 149,
+      "direction": "up",
+      "time": "14:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 150,
+      "direction": "up",
+      "time": "14:37",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 151,
+      "direction": "up",
+      "time": "14:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 152,
+      "direction": "up",
+      "time": "14:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 153,
+      "direction": "up",
+      "time": "14:51",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 154,
+      "direction": "up",
+      "time": "14:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 155,
+      "direction": "up",
+      "time": "14:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 156,
+      "direction": "up",
+      "time": "15:00",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 157,
+      "direction": "up",
+      "time": "15:07",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 158,
+      "direction": "up",
+      "time": "15:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 159,
+      "direction": "up",
+      "time": "15:15",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 160,
+      "direction": "up",
+      "time": "15:21",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 161,
+      "direction": "up",
+      "time": "15:24",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 162,
+      "direction": "up",
+      "time": "15:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 163,
+      "direction": "up",
+      "time": "15:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 164,
+      "direction": "up",
+      "time": "15:37",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 165,
+      "direction": "up",
+      "time": "15:43",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 166,
+      "direction": "up",
+      "time": "15:45",
+      "type": "local",
+      "destination": "保谷"
+    },
+    {
+      "id": 167,
+      "direction": "up",
+      "time": "15:51",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 168,
+      "direction": "up",
+      "time": "15:54",
+      "type": "express",
+      "destination": "池袋"
+    },
+    {
+      "id": 169,
+      "direction": "up",
+      "time": "15:58",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 170,
+      "direction": "up",
+      "time": "16:00",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 171,
+      "direction": "up",
+      "time": "16:06",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 172,
+      "direction": "up",
+      "time": "16:13",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 173,
+      "direction": "up",
+      "time": "16:15",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 174,
+      "direction": "up",
+      "time": "16:21",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 175,
+      "direction": "up",
+      "time": "16:23",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 176,
+      "direction": "up",
+      "time": "16:28",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 177,
+      "direction": "up",
+      "time": "16:30",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 178,
+      "direction": "up",
+      "time": "16:37",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 179,
+      "direction": "up",
+      "time": "16:43",
+      "type": "express",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 180,
+      "direction": "up",
+      "time": "16:45",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 181,
+      "direction": "up",
+      "time": "16:51",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 182,
+      "direction": "up",
+      "time": "16:54",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 183,
+      "direction": "up",
+      "time": "16:58",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 184,
+      "direction": "up",
+      "time": "17:00",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 185,
+      "direction": "up",
+      "time": "17:07",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 186,
+      "direction": "up",
+      "time": "17:09",
+      "type": "local",
+      "destination": "清瀬"
+    },
+    {
+      "id": 187,
+      "direction": "up",
+      "time": "17:16",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 188,
+      "direction": "up",
+      "time": "17:18",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 189,
+      "direction": "up",
+      "time": "17:24",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 190,
+      "direction": "up",
+      "time": "17:26",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 191,
+      "direction": "up",
+      "time": "17:33",
+      "type": "local",
+      "destination": "保谷"
+    },
+    {
+      "id": 192,
+      "direction": "up",
+      "time": "17:40",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 193,
+      "direction": "up",
+      "time": "17:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 194,
+      "direction": "up",
+      "time": "17:48",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 195,
+      "direction": "up",
+      "time": "17:49",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 196,
+      "direction": "up",
+      "time": "17:53",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 197,
+      "direction": "up",
+      "time": "17:55",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 198,
+      "direction": "up",
+      "time": "18:02",
+      "type": "local",
+      "destination": "保谷"
+    },
+    {
+      "id": 199,
+      "direction": "up",
+      "time": "18:05",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 200,
+      "direction": "up",
+      "time": "18:10",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 201,
+      "direction": "up",
+      "time": "18:12",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 202,
+      "direction": "up",
+      "time": "18:18",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 203,
+      "direction": "up",
+      "time": "18:19",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 204,
+      "direction": "up",
+      "time": "18:24",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 205,
+      "direction": "up",
+      "time": "18:27",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 206,
+      "direction": "up",
+      "time": "18:33",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 207,
+      "direction": "up",
+      "time": "18:34",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 208,
+      "direction": "up",
+      "time": "18:40",
+      "type": "express",
+      "destination": "清瀬"
+    },
+    {
+      "id": 209,
+      "direction": "up",
+      "time": "18:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 210,
+      "direction": "up",
+      "time": "18:48",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 211,
+      "direction": "up",
+      "time": "18:49",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 212,
+      "direction": "up",
+      "time": "18:53",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 213,
+      "direction": "up",
+      "time": "18:55",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 214,
+      "direction": "up",
+      "time": "19:02",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 215,
+      "direction": "up",
+      "time": "19:04",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 216,
+      "direction": "up",
+      "time": "19:10",
+      "type": "express",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 217,
+      "direction": "up",
+      "time": "19:12",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 218,
+      "direction": "up",
+      "time": "19:18",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 219,
+      "direction": "up",
+      "time": "19:19",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 220,
+      "direction": "up",
+      "time": "19:23",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 221,
+      "direction": "up",
+      "time": "19:25",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 222,
+      "direction": "up",
+      "time": "19:33",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 223,
+      "direction": "up",
+      "time": "19:34",
+      "type": "express",
+      "destination": "森林公園"
+    },
+    {
+      "id": 224,
+      "direction": "up",
+      "time": "19:40",
+      "type": "express",
+      "destination": "清瀬"
+    },
+    {
+      "id": 225,
+      "direction": "up",
+      "time": "19:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 226,
+      "direction": "up",
+      "time": "19:48",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 227,
+      "direction": "up",
+      "time": "19:51",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 228,
+      "direction": "up",
+      "time": "19:53",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 229,
+      "direction": "up",
+      "time": "19:55",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 230,
+      "direction": "up",
+      "time": "20:03",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 231,
+      "direction": "up",
+      "time": "20:04",
+      "type": "express",
+      "destination": "川越市"
+    },
+    {
+      "id": 232,
+      "direction": "up",
+      "time": "20:10",
+      "type": "express",
+      "destination": "所沢"
+    },
+    {
+      "id": 233,
+      "direction": "up",
+      "time": "20:12",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 234,
+      "direction": "up",
+      "time": "20:18",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 235,
+      "direction": "up",
+      "time": "20:19",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 236,
+      "direction": "up",
+      "time": "20:23",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 237,
+      "direction": "up",
+      "time": "20:25",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 238,
+      "direction": "up",
+      "time": "20:33",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 239,
+      "direction": "up",
+      "time": "20:34",
+      "type": "express",
+      "destination": "志木"
+    },
+    {
+      "id": 240,
+      "direction": "up",
+      "time": "20:40",
+      "type": "express",
+      "destination": "清瀬"
+    },
+    {
+      "id": 241,
+      "direction": "up",
+      "time": "20:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 242,
+      "direction": "up",
+      "time": "20:48",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 243,
+      "direction": "up",
+      "time": "20:49",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 244,
+      "direction": "up",
+      "time": "20:53",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 245,
+      "direction": "up",
+      "time": "20:55",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 246,
+      "direction": "up",
+      "time": "21:03",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 247,
+      "direction": "up",
+      "time": "21:04",
+      "type": "express",
+      "destination": "森林公園"
+    },
+    {
+      "id": 248,
+      "direction": "up",
+      "time": "21:10",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 249,
+      "direction": "up",
+      "time": "21:12",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 250,
+      "direction": "up",
+      "time": "21:18",
+      "type": "local",
+      "destination": "小手指"
+    },
+    {
+      "id": 251,
+      "direction": "up",
+      "time": "21:21",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 252,
+      "direction": "up",
+      "time": "21:25",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 253,
+      "direction": "up",
+      "time": "21:27",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 254,
+      "direction": "up",
+      "time": "21:33",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 255,
+      "direction": "up",
+      "time": "21:34",
+      "type": "express",
+      "destination": "和光市"
+    },
+    {
+      "id": 256,
+      "direction": "up",
+      "time": "21:40",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 257,
+      "direction": "up",
+      "time": "21:42",
+      "type": "local",
+      "destination": "志木"
+    },
+    {
+      "id": 258,
+      "direction": "up",
+      "time": "21:50",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 259,
+      "direction": "up",
+      "time": "21:55",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 260,
+      "direction": "up",
+      "time": "21:57",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 261,
+      "direction": "up",
+      "time": "22:03",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 262,
+      "direction": "up",
+      "time": "22:06",
+      "type": "express",
+      "destination": "森林公園"
+    },
+    {
+      "id": 263,
+      "direction": "up",
+      "time": "22:10",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 264,
+      "direction": "up",
+      "time": "22:12",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 265,
+      "direction": "up",
+      "time": "22:19",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 266,
+      "direction": "up",
+      "time": "22:24",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 267,
+      "direction": "up",
+      "time": "22:26",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 268,
+      "direction": "up",
+      "time": "22:33",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 269,
+      "direction": "up",
+      "time": "22:35",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 270,
+      "direction": "up",
+      "time": "22:40",
+      "type": "express",
+      "destination": "小手指"
+    },
+    {
+      "id": 271,
+      "direction": "up",
+      "time": "22:42",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 272,
+      "direction": "up",
+      "time": "22:48",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 273,
+      "direction": "up",
+      "time": "22:55",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 274,
+      "direction": "up",
+      "time": "23:03",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 275,
+      "direction": "up",
+      "time": "23:05",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 276,
+      "direction": "up",
+      "time": "23:08",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 277,
+      "direction": "up",
+      "time": "23:17",
+      "type": "local",
+      "destination": "石神井公園"
+    },
+    {
+      "id": 278,
+      "direction": "up",
+      "time": "23:22",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 279,
+      "direction": "up",
+      "time": "23:24",
+      "type": "express",
+      "destination": "渋谷"
+    },
+    {
+      "id": 280,
+      "direction": "up",
+      "time": "23:32",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 281,
+      "direction": "up",
+      "time": "23:39",
+      "type": "express",
+      "destination": "保谷"
+    },
+    {
+      "id": 282,
+      "direction": "up",
+      "time": "23:42",
+      "type": "local",
+      "destination": "和光市"
+    },
+    {
+      "id": 283,
+      "direction": "up",
+      "time": "23:56",
+      "type": "local",
+      "destination": "池袋"
+    },
+    {
+      "id": 284,
+      "direction": "up",
+      "time": "00:11",
+      "type": "local",
+      "destination": "新宿三丁目"
+    },
+    {
+      "id": 285,
+      "direction": "up",
+      "time": "00:23",
+      "type": "local",
+      "destination": "渋谷"
+    },
+    {
+      "id": 1,
+      "direction": "down",
+      "time": "05:08",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 2,
+      "direction": "down",
+      "time": "05:24",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 3,
+      "direction": "down",
+      "time": "05:30",
+      "type": "express",
+      "destination": "海老名"
+    },
+    {
+      "id": 4,
+      "direction": "down",
+      "time": "05:37",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 5,
+      "direction": "down",
+      "time": "05:50",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 6,
+      "direction": "down",
+      "time": "05:57",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 7,
+      "direction": "down",
+      "time": "06:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 8,
+      "direction": "down",
+      "time": "06:09",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 9,
+      "direction": "down",
+      "time": "06:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 10,
+      "direction": "down",
+      "time": "06:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 11,
+      "direction": "down",
+      "time": "06:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 12,
+      "direction": "down",
+      "time": "06:29",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 13,
+      "direction": "down",
+      "time": "06:32",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 14,
+      "direction": "down",
+      "time": "06:39",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 15,
+      "direction": "down",
+      "time": "06:43",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 16,
+      "direction": "down",
+      "time": "06:47",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 17,
+      "direction": "down",
+      "time": "06:54",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 18,
+      "direction": "down",
+      "time": "06:58",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 19,
+      "direction": "down",
+      "time": "07:01",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 20,
+      "direction": "down",
+      "time": "07:06",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 21,
+      "direction": "down",
+      "time": "07:09",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 22,
+      "direction": "down",
+      "time": "07:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 23,
+      "direction": "down",
+      "time": "07:16",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 24,
+      "direction": "down",
+      "time": "07:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 25,
+      "direction": "down",
+      "time": "07:22",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 26,
+      "direction": "down",
+      "time": "07:25",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 27,
+      "direction": "down",
+      "time": "07:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 28,
+      "direction": "down",
+      "time": "07:31",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 29,
+      "direction": "down",
+      "time": "07:33",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 30,
+      "direction": "down",
+      "time": "07:36",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 31,
+      "direction": "down",
+      "time": "07:39",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 32,
+      "direction": "down",
+      "time": "07:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 33,
+      "direction": "down",
+      "time": "07:46",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 34,
+      "direction": "down",
+      "time": "07:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 35,
+      "direction": "down",
+      "time": "07:54",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 36,
+      "direction": "down",
+      "time": "07:56",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 37,
+      "direction": "down",
+      "time": "07:59",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 38,
+      "direction": "down",
+      "time": "08:02",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 39,
+      "direction": "down",
+      "time": "08:06",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 40,
+      "direction": "down",
+      "time": "08:09",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 41,
+      "direction": "down",
+      "time": "08:11",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 42,
+      "direction": "down",
+      "time": "08:16",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 43,
+      "direction": "down",
+      "time": "08:21",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 44,
+      "direction": "down",
+      "time": "08:23",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 45,
+      "direction": "down",
+      "time": "08:26",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 46,
+      "direction": "down",
+      "time": "08:30",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 47,
+      "direction": "down",
+      "time": "08:35",
+      "type": "express",
+      "destination": "西谷"
+    },
+    {
+      "id": 48,
+      "direction": "down",
+      "time": "08:38",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 49,
+      "direction": "down",
+      "time": "08:43",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 50,
+      "direction": "down",
+      "time": "08:47",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 51,
+      "direction": "down",
+      "time": "08:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 52,
+      "direction": "down",
+      "time": "08:52",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 53,
+      "direction": "down",
+      "time": "08:56",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 54,
+      "direction": "down",
+      "time": "09:01",
+      "type": "express",
+      "destination": "大和"
+    },
+    {
+      "id": 55,
+      "direction": "down",
+      "time": "09:03",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 56,
+      "direction": "down",
+      "time": "09:05",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 57,
+      "direction": "down",
+      "time": "09:11",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 58,
+      "direction": "down",
+      "time": "09:13",
+      "type": "express",
+      "destination": "西谷"
+    },
+    {
+      "id": 59,
+      "direction": "down",
+      "time": "09:16",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 60,
+      "direction": "down",
+      "time": "09:18",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 61,
+      "direction": "down",
+      "time": "09:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 62,
+      "direction": "down",
+      "time": "09:24",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 63,
+      "direction": "down",
+      "time": "09:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 64,
+      "direction": "down",
+      "time": "09:34",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 65,
+      "direction": "down",
+      "time": "09:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 66,
+      "direction": "down",
+      "time": "09:39",
+      "type": "express",
+      "destination": "西谷"
+    },
+    {
+      "id": 67,
+      "direction": "down",
+      "time": "09:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 68,
+      "direction": "down",
+      "time": "09:48",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 69,
+      "direction": "down",
+      "time": "09:51",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 70,
+      "direction": "down",
+      "time": "09:56",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 71,
+      "direction": "down",
+      "time": "09:58",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 72,
+      "direction": "down",
+      "time": "10:06",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 73,
+      "direction": "down",
+      "time": "10:09",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 74,
+      "direction": "down",
+      "time": "10:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 75,
+      "direction": "down",
+      "time": "10:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 76,
+      "direction": "down",
+      "time": "10:21",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 77,
+      "direction": "down",
+      "time": "10:23",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 78,
+      "direction": "down",
+      "time": "10:26",
+      "type": "express",
+      "destination": "西谷"
+    },
+    {
+      "id": 79,
+      "direction": "down",
+      "time": "10:28",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 80,
+      "direction": "down",
+      "time": "10:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 81,
+      "direction": "down",
+      "time": "10:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 82,
+      "direction": "down",
+      "time": "10:40",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 83,
+      "direction": "down",
+      "time": "10:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 84,
+      "direction": "down",
+      "time": "10:49",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 85,
+      "direction": "down",
+      "time": "10:51",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 86,
+      "direction": "down",
+      "time": "10:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 87,
+      "direction": "down",
+      "time": "11:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 88,
+      "direction": "down",
+      "time": "11:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 89,
+      "direction": "down",
+      "time": "11:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 90,
+      "direction": "down",
+      "time": "11:19",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 91,
+      "direction": "down",
+      "time": "11:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 92,
+      "direction": "down",
+      "time": "11:25",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 93,
+      "direction": "down",
+      "time": "11:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 94,
+      "direction": "down",
+      "time": "11:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 95,
+      "direction": "down",
+      "time": "11:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 96,
+      "direction": "down",
+      "time": "11:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 97,
+      "direction": "down",
+      "time": "11:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 98,
+      "direction": "down",
+      "time": "11:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 99,
+      "direction": "down",
+      "time": "11:55",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 100,
+      "direction": "down",
+      "time": "11:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 101,
+      "direction": "down",
+      "time": "12:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 102,
+      "direction": "down",
+      "time": "12:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 103,
+      "direction": "down",
+      "time": "12:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 104,
+      "direction": "down",
+      "time": "12:19",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 105,
+      "direction": "down",
+      "time": "12:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 106,
+      "direction": "down",
+      "time": "12:25",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 107,
+      "direction": "down",
+      "time": "12:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 108,
+      "direction": "down",
+      "time": "12:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 109,
+      "direction": "down",
+      "time": "12:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 110,
+      "direction": "down",
+      "time": "12:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 111,
+      "direction": "down",
+      "time": "12:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 112,
+      "direction": "down",
+      "time": "12:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 113,
+      "direction": "down",
+      "time": "12:55",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 114,
+      "direction": "down",
+      "time": "12:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 115,
+      "direction": "down",
+      "time": "13:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 116,
+      "direction": "down",
+      "time": "13:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 117,
+      "direction": "down",
+      "time": "13:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 118,
+      "direction": "down",
+      "time": "13:19",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 119,
+      "direction": "down",
+      "time": "13:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 120,
+      "direction": "down",
+      "time": "13:25",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 121,
+      "direction": "down",
+      "time": "13:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 122,
+      "direction": "down",
+      "time": "13:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 123,
+      "direction": "down",
+      "time": "13:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 124,
+      "direction": "down",
+      "time": "13:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 125,
+      "direction": "down",
+      "time": "13:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 126,
+      "direction": "down",
+      "time": "13:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 127,
+      "direction": "down",
+      "time": "13:55",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 128,
+      "direction": "down",
+      "time": "13:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 129,
+      "direction": "down",
+      "time": "14:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 130,
+      "direction": "down",
+      "time": "14:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 131,
+      "direction": "down",
+      "time": "14:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 132,
+      "direction": "down",
+      "time": "14:19",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 133,
+      "direction": "down",
+      "time": "14:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 134,
+      "direction": "down",
+      "time": "14:25",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 135,
+      "direction": "down",
+      "time": "14:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 136,
+      "direction": "down",
+      "time": "14:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 137,
+      "direction": "down",
+      "time": "14:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 138,
+      "direction": "down",
+      "time": "14:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 139,
+      "direction": "down",
+      "time": "14:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 140,
+      "direction": "down",
+      "time": "14:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 141,
+      "direction": "down",
+      "time": "14:55",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 142,
+      "direction": "down",
+      "time": "14:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 143,
+      "direction": "down",
+      "time": "15:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 144,
+      "direction": "down",
+      "time": "15:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 145,
+      "direction": "down",
+      "time": "15:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 146,
+      "direction": "down",
+      "time": "15:19",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 147,
+      "direction": "down",
+      "time": "15:21",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 148,
+      "direction": "down",
+      "time": "15:25",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 149,
+      "direction": "down",
+      "time": "15:27",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 150,
+      "direction": "down",
+      "time": "15:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 151,
+      "direction": "down",
+      "time": "15:36",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 152,
+      "direction": "down",
+      "time": "15:42",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 153,
+      "direction": "down",
+      "time": "15:49",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 154,
+      "direction": "down",
+      "time": "15:51",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 155,
+      "direction": "down",
+      "time": "15:55",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 156,
+      "direction": "down",
+      "time": "15:57",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 157,
+      "direction": "down",
+      "time": "16:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 158,
+      "direction": "down",
+      "time": "16:06",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 159,
+      "direction": "down",
+      "time": "16:09",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 160,
+      "direction": "down",
+      "time": "16:12",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 161,
+      "direction": "down",
+      "time": "16:15",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 162,
+      "direction": "down",
+      "time": "16:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 163,
+      "direction": "down",
+      "time": "16:23",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 164,
+      "direction": "down",
+      "time": "16:26",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 165,
+      "direction": "down",
+      "time": "16:31",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 166,
+      "direction": "down",
+      "time": "16:38",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 167,
+      "direction": "down",
+      "time": "16:41",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 168,
+      "direction": "down",
+      "time": "16:46",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 169,
+      "direction": "down",
+      "time": "16:54",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 170,
+      "direction": "down",
+      "time": "16:57",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 171,
+      "direction": "down",
+      "time": "17:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 172,
+      "direction": "down",
+      "time": "17:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 173,
+      "direction": "down",
+      "time": "17:10",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 174,
+      "direction": "down",
+      "time": "17:12",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 175,
+      "direction": "down",
+      "time": "17:15",
+      "type": "express",
+      "destination": "西谷"
+    },
+    {
+      "id": 176,
+      "direction": "down",
+      "time": "17:19",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 177,
+      "direction": "down",
+      "time": "17:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 178,
+      "direction": "down",
+      "time": "17:28",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 179,
+      "direction": "down",
+      "time": "17:31",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 180,
+      "direction": "down",
+      "time": "17:34",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 181,
+      "direction": "down",
+      "time": "17:40",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 182,
+      "direction": "down",
+      "time": "17:43",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 183,
+      "direction": "down",
+      "time": "17:46",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 184,
+      "direction": "down",
+      "time": "17:48",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 185,
+      "direction": "down",
+      "time": "17:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 186,
+      "direction": "down",
+      "time": "17:57",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 187,
+      "direction": "down",
+      "time": "18:02",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 188,
+      "direction": "down",
+      "time": "18:04",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 189,
+      "direction": "down",
+      "time": "18:10",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 190,
+      "direction": "down",
+      "time": "18:13",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 191,
+      "direction": "down",
+      "time": "18:15",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 192,
+      "direction": "down",
+      "time": "18:19",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 193,
+      "direction": "down",
+      "time": "18:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 194,
+      "direction": "down",
+      "time": "18:27",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 195,
+      "direction": "down",
+      "time": "18:31",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 196,
+      "direction": "down",
+      "time": "18:34",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 197,
+      "direction": "down",
+      "time": "18:39",
+      "type": "local",
+      "destination": "菊名"
+    },
+    {
+      "id": 198,
+      "direction": "down",
+      "time": "18:41",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 199,
+      "direction": "down",
+      "time": "18:44",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 200,
+      "direction": "down",
+      "time": "18:47",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 201,
+      "direction": "down",
+      "time": "18:50",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 202,
+      "direction": "down",
+      "time": "18:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 203,
+      "direction": "down",
+      "time": "18:58",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 204,
+      "direction": "down",
+      "time": "19:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 205,
+      "direction": "down",
+      "time": "19:04",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 206,
+      "direction": "down",
+      "time": "19:10",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 207,
+      "direction": "down",
+      "time": "19:13",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 208,
+      "direction": "down",
+      "time": "19:16",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 209,
+      "direction": "down",
+      "time": "19:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 210,
+      "direction": "down",
+      "time": "19:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 211,
+      "direction": "down",
+      "time": "19:27",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 212,
+      "direction": "down",
+      "time": "19:31",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 213,
+      "direction": "down",
+      "time": "19:34",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 214,
+      "direction": "down",
+      "time": "19:41",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 215,
+      "direction": "down",
+      "time": "19:43",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 216,
+      "direction": "down",
+      "time": "19:46",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 217,
+      "direction": "down",
+      "time": "19:49",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 218,
+      "direction": "down",
+      "time": "19:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 219,
+      "direction": "down",
+      "time": "19:57",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 220,
+      "direction": "down",
+      "time": "20:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 221,
+      "direction": "down",
+      "time": "20:04",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 222,
+      "direction": "down",
+      "time": "20:11",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 223,
+      "direction": "down",
+      "time": "20:13",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 224,
+      "direction": "down",
+      "time": "20:16",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 225,
+      "direction": "down",
+      "time": "20:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 226,
+      "direction": "down",
+      "time": "20:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 227,
+      "direction": "down",
+      "time": "20:27",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 228,
+      "direction": "down",
+      "time": "20:30",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 229,
+      "direction": "down",
+      "time": "20:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 230,
+      "direction": "down",
+      "time": "20:40",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 231,
+      "direction": "down",
+      "time": "20:43",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 232,
+      "direction": "down",
+      "time": "20:46",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 233,
+      "direction": "down",
+      "time": "20:48",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 234,
+      "direction": "down",
+      "time": "20:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 235,
+      "direction": "down",
+      "time": "20:57",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 236,
+      "direction": "down",
+      "time": "21:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 237,
+      "direction": "down",
+      "time": "21:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 238,
+      "direction": "down",
+      "time": "21:11",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 239,
+      "direction": "down",
+      "time": "21:13",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 240,
+      "direction": "down",
+      "time": "21:16",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 241,
+      "direction": "down",
+      "time": "21:18",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 242,
+      "direction": "down",
+      "time": "21:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 243,
+      "direction": "down",
+      "time": "21:27",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 244,
+      "direction": "down",
+      "time": "21:31",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 245,
+      "direction": "down",
+      "time": "21:33",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 246,
+      "direction": "down",
+      "time": "21:41",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 247,
+      "direction": "down",
+      "time": "21:43",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 248,
+      "direction": "down",
+      "time": "21:46",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 249,
+      "direction": "down",
+      "time": "21:48",
+      "type": "local",
+      "destination": "菊名"
+    },
+    {
+      "id": 250,
+      "direction": "down",
+      "time": "21:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 251,
+      "direction": "down",
+      "time": "21:57",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 252,
+      "direction": "down",
+      "time": "22:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 253,
+      "direction": "down",
+      "time": "22:04",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 254,
+      "direction": "down",
+      "time": "22:12",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 255,
+      "direction": "down",
+      "time": "22:14",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 256,
+      "direction": "down",
+      "time": "22:19",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 257,
+      "direction": "down",
+      "time": "22:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 258,
+      "direction": "down",
+      "time": "22:28",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 259,
+      "direction": "down",
+      "time": "22:32",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 260,
+      "direction": "down",
+      "time": "22:39",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 261,
+      "direction": "down",
+      "time": "22:42",
+      "type": "express",
+      "destination": "横浜"
+    },
+    {
+      "id": 262,
+      "direction": "down",
+      "time": "22:45",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 263,
+      "direction": "down",
+      "time": "22:48",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 264,
+      "direction": "down",
+      "time": "22:55",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 265,
+      "direction": "down",
+      "time": "22:57",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 266,
+      "direction": "down",
+      "time": "23:01",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 267,
+      "direction": "down",
+      "time": "23:03",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 268,
+      "direction": "down",
+      "time": "23:10",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 269,
+      "direction": "down",
+      "time": "23:12",
+      "type": "express",
+      "destination": "海老名"
+    },
+    {
+      "id": 270,
+      "direction": "down",
+      "time": "23:15",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 271,
+      "direction": "down",
+      "time": "23:19",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 272,
+      "direction": "down",
+      "time": "23:25",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 273,
+      "direction": "down",
+      "time": "23:28",
+      "type": "express",
+      "destination": "湘南台"
+    },
+    {
+      "id": 274,
+      "direction": "down",
+      "time": "23:33",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 275,
+      "direction": "down",
+      "time": "23:38",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 276,
+      "direction": "down",
+      "time": "23:42",
+      "type": "express",
+      "destination": "新横浜"
+    },
+    {
+      "id": 277,
+      "direction": "down",
+      "time": "23:45",
+      "type": "local",
+      "destination": "菊名"
+    },
+    {
+      "id": 278,
+      "direction": "down",
+      "time": "23:49",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 279,
+      "direction": "down",
+      "time": "23:53",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 280,
+      "direction": "down",
+      "time": "00:00",
+      "type": "express",
+      "destination": "海老名"
+    },
+    {
+      "id": 281,
+      "direction": "down",
+      "time": "00:03",
+      "type": "local",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 282,
+      "direction": "down",
+      "time": "00:10",
+      "type": "local",
+      "destination": "横浜"
+    },
+    {
+      "id": 283,
+      "direction": "down",
+      "time": "00:14",
+      "type": "express",
+      "destination": "武蔵小杉"
+    },
+    {
+      "id": 284,
+      "direction": "down",
+      "time": "00:19",
+      "type": "local",
+      "destination": "菊名"
+    },
+    {
+      "id": 285,
+      "direction": "down",
+      "time": "00:31",
+      "type": "local",
+      "destination": "元住吉"
+    }
+  ]
+}
