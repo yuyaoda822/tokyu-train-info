@@ -12,13 +12,16 @@ function App() {
   const [upTrains, setUpTrains] = useState([]);
   const [downTrains, setDownTrains] = useState([]);
 
-  // ダークモード適用（ルート要素に適用）
+  // ダークモード適用（ルート要素とbodyに適用）
   useEffect(() => {
     const root = document.documentElement;
+    const body = document.body;
     if (isDarkMode) {
       root.classList.add('dark');
+      body.classList.add('dark');
     } else {
       root.classList.remove('dark');
+      body.classList.remove('dark');
     }
   }, [isDarkMode]);
 
